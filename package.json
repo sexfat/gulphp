@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "安裝" : "npm i",
+    "dev" : "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
